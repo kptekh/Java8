@@ -1,4 +1,4 @@
-package src.main.java.java.compare;
+package src.main.java.compare;
 
 public class Employee {
 
